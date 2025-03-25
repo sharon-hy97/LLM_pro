@@ -3,7 +3,7 @@
 
 <br>
 您可以透過指令下載完整程式碼：
-<br>
+
 ```
 git clone https://github.com/sharon-hy97/LLM_pro.git
 ```
@@ -18,7 +18,7 @@ pip install openai
 <br>
 <br>
 只需執行 PromptTemplate_CRM.py，再輸入資訊即可得到自動回覆信。
-<br>
+
 ```
 python3 PromptTemplate_CRM.py
 ```
